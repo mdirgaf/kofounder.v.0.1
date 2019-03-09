@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kofounder</string>
+
+    <!-- Edit Text -->
+    <string name="edt_username">Username</string>
+    <string name="edt_fullname">Full Name</string>
+    <string name="edt_email">Email</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799944378733",
+    "firebase_url": "https://kofounder-kfd01.firebaseio.com",
+    "project_id": "kofounder-kfd01",
+    "storage_bucket": "kofounder-kfd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799944378733:android:95b8c7cf7b758eb8",
+        "android_client_info": {
+          "package_name": "id.kofounder.kofounder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799944378733-9dd6qeec93r09h17gqqfsglu5u9cnfii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kofounder.kofounder",
+            "certificate_hash": "eb1316d024a1f92abfea5d0ebdd62cfbe087abf9"
+          }
+        },
+        {
+          "client_id": "799944378733-4upirnjkvghcgppmvlp5iiqb6uob0nr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvqVxdFBh-Xs8EK3qmVJj98mG7LQYjFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799944378733-4upirnjkvghcgppmvlp5iiqb6uob0nr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
