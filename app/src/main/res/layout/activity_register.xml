@@ -14,7 +14,7 @@
         android:src="@drawable/logo"/>
 
     <EditText
-        android:id="@+id/username"
+        android:id="@+id/edt_username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/edt_username"
@@ -23,7 +23,7 @@
         android:background="@drawable/edittext_background"/>
 
     <EditText
-        android:id="@+id/fullname"
+        android:id="@+id/edt_fullname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/edt_fullname"
@@ -45,7 +45,7 @@
         android:id="@+id/edt_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Password"
+        android:hint="@string/edt_password"
         android:inputType="textPassword"
         android:layout_marginTop="10dp"
         android:padding="10dp"
@@ -56,7 +56,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Register"
+        android:text="@string/btn_register"
         android:textColor="@color/colorPrimary"
         android:background="@drawable/button_background"/>
 
@@ -64,7 +64,7 @@
         android:id="@+id/txt_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Already have an account? Log in"
+        android:text="@string/login"
         android:layout_marginTop="10dp"/>
 
 </LinearLayout>
