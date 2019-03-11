@@ -14,4 +14,13 @@
     <!-- Help -->
     <string name="login">Already have an account? Log in</string>
     <string name="signup">Don\'t have an account? Sign up</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bnv_home">Home</string>
+    <string name="bnv_network">Network</string>
+    <string name="bnv_mentor">Mentor</string>
+    <string name="bnv_akun">Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
