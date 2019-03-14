@@ -8,11 +8,6 @@
     android:gravity="center"
     tools:context=".LoginActivity">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:src="@drawable/logo"/>
-
     <EditText
         android:id="@+id/edt_email"
         android:layout_width="match_parent"
@@ -38,7 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="@string/btn_login"
+        android:text="@string/btn_masuk"
         android:textColor="@color/colorPrimary"
         android:background="@drawable/button_background"/>
 
@@ -46,7 +41,7 @@
         android:id="@+id/txt_signup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/signup"
+        android:text="@string/daftar"
         android:layout_marginTop="10dp"/>
 
 </LinearLayout>

@@ -8,12 +8,12 @@
     <string name="edt_password">Password</string>
 
     <!-- Button -->
-    <string name="btn_login">Log in</string>
-    <string name="btn_register">Register</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="btn_daftar">Daftar</string>
 
     <!-- Help -->
-    <string name="login">Already have an account? Log in</string>
-    <string name="signup">Don\'t have an account? Sign up</string>
+    <string name="masuk">Sudah memiliki akun? Silahkan masuk</string>
+    <string name="daftar">Belum memiliki akun? Daftar</string>
 
     <!-- Bottom Navigation -->
     <string name="bnv_home">Home</string>

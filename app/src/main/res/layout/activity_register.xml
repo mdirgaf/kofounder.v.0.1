@@ -8,11 +8,6 @@
     android:gravity="center"
     tools:context=".RegisterActivity">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:src="@drawable/logo"/>
-
     <EditText
         android:id="@+id/edt_username"
         android:layout_width="match_parent"
@@ -56,7 +51,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="@string/btn_register"
+        android:text="@string/btn_daftar"
         android:textColor="@color/colorPrimary"
         android:background="@drawable/button_background"/>
 
@@ -64,7 +59,7 @@
         android:id="@+id/txt_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/login"
+        android:text="@string/masuk"
         android:layout_marginTop="10dp"/>
 
 </LinearLayout>
